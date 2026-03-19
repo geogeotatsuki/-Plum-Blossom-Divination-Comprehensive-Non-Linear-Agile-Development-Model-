@@ -128,7 +128,7 @@ tags: [iching, agile, project-management]
 
 ## 第四階段：輸出格式規範 (Output Format)
 
-請**依序**輸出以下四個區塊：
+請**依序**輸出以下六個區塊：
 
 ### 區塊 A：主題百分比表單
 
